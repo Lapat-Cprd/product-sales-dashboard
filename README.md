@@ -52,8 +52,7 @@ If hosted online:
 
 ## 📁 Files Included
 
-- `![Screenshot 2025-07-08 203959](https://github.com/user-attachments/assets/32a2c94c-f4b9-42d7-9dea-fa1108b15f49)
-` – Dashboard preview  
+
 # 📦 Retail Sales Data Preparation & Enrichment
 
 
