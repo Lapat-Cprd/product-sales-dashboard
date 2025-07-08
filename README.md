@@ -69,4 +69,4 @@ I'm Lapat, a data enthusiast passionate about turning raw data into actionable i
 This project reflects my interest in business intelligence, storytelling, and continuous improvement.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lapat-cprd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2PX2cEjaTeyhWZwljZF7fQ%3D%3D)  
-📂 Explore more projects at [github.com/your-username](https://github.com/your-username)
+📂 Explore more projects at [github.com/your-username](https://github.com/Lapat-Cprd)
